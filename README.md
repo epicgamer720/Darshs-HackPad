@@ -21,6 +21,8 @@ BOM :
 
 mabye a few extra leds and diodes just incase please and mabye one or 2 switches to fidget with
 
-<img width="894" height="754" alt="image" src="https://github.com/user-attachments/assets/41f635dd-864c-428b-a7f6-22081ba7b91a" />
+
+<img width="783" height="653" alt="image" src="https://github.com/user-attachments/assets/63fd5a2f-3c0f-4158-a744-dace39aacb41" />
+<img width="1250" height="386" alt="image" src="https://github.com/user-attachments/assets/8884e1bb-0296-4747-9687-9c25f46b5db4" />
 <img width="636" height="636" alt="image" src="https://github.com/user-attachments/assets/1bdde3d0-0a1a-45d9-b137-fa9b020fadac" />
 <img width="1447" height="805" alt="image" src="https://github.com/user-attachments/assets/9ce5afb1-f384-4c57-bb7a-b84d823eee12" />
