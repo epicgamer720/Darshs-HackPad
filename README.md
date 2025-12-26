@@ -4,12 +4,19 @@
 BOM :
 
 1x XIAO RP2040
+
 9x MX-Style switches (traslucent ones please)
+
 9x SK8612-e MINI led 
+
 1x Rotary Encoder EC11
+
 1x 0.91 inch OLED display
+
 9x Through-hole 1N4148 Diodes
+
 4x M3x16mm screws
+
 4x M3 heatset inserts
 
 mabye a few extra leds and diodes just incase please and mabye one or 2 switches to fidget with
